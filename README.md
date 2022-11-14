@@ -21,7 +21,7 @@ Christine, Chris, CE, or something you like, i dont care. xD
 - a senior one student (maybe you dont like the behavior like this...but i just want to write.)
 - wait for filled.
 
-### fell free to reach me!
+### feel free to reach me!
 
 mail: mailto:root@christine.pp.ua
 
