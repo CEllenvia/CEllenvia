@@ -1,6 +1,18 @@
 [CE] since i have removed my twitter for a while...there is no self-introduction for me on the internet...hmm...
 
-Hi there, Christine's here.
+```
+$ cedoc I-001.dcc
+Password:
+
+Please wait while we're processing the documents...|
+Warning! This documents contains these situations :
+- the author marked it as WIP.
+- the user 100 is editing.
+
+Do you want to open it anyway? [y(es)/n(o)/R(ead-only)
+r
+```
+Hi everyone, Christine's here.
 
 ## Basic introducion <!--for kickstart-->
 
@@ -23,7 +35,9 @@ Christine, Chris, CE, or something you like, i dont care. xD
 
 ### feel free to reach me!
 
-mail: mailto:root@christine.pp.ua
+mail: mailto:rooot@christine.pp.ua <!--Why not root? https://www.ietf.org/rfc/rfc2142.txt -->
+
+> Tips! You can directly encrypted your emali when you type this address to the email apps which supports WKD:https://wiki.gnupg.org/WKD 
 
 telegram: https://t.me/CEllenviaHydro
 
